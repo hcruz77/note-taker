@@ -1,6 +1,18 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Dog bath",
+    "text": "Puppers needs a bath"
+  },
+  {
+    "title": "Homework",
+    "text": "Express and SQL"
+  },
+  {
+    "title": "Go to store",
+    "text": "out of wine"
+  }
 ]
